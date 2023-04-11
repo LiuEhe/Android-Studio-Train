@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_demo</string>
+    <string name="welcome">welcome to login</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="hint_account">Input your account</string>
+    <string name="hint_password">Input your password</string>
+    <string name="tsize">25sp</string>
+    <string name="sign_up">sign up</string>
+</resources>
